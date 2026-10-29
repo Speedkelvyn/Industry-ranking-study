@@ -2,7 +2,7 @@
 
 Thirteen methods rank Kenneth French's 49 US industry portfolios every month from January 1980 to August 2026, using only information available at the time. The target is the return over the next month minus the average industry return, so only the ranking is scored.
 
-**Read the report:** https://speedkelvyn.github.io/Speedy.github.io/projects/industry-ranking/
+**Read the report:** https://speedkelvyn.github.io/Industry-ranking-study/
 
 ## Findings
 
